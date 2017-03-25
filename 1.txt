@@ -1,14 +1,12 @@
-﻿What do you like more?
-1. php
-2. C++
-3. C#
-4. Ruby
-5. Python
-6. other
+﻿
 
 //Your answer
 //example: Масляев - 6
 Луговская - 2
 Ivanova - 6
+<<<<<<< HEAD
 Очирова - 3
 Затирко - 2
+=======
+Терентьева-8
+>>>>>>> taa
