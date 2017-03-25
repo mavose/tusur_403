@@ -9,4 +9,5 @@
 //Your answer
 //example: Масляев - 6
 Луговская - 2
+Ivanova - 6
 Затирко - 2
